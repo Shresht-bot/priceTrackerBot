@@ -1,2 +1,2 @@
 # priceTrackerBot
-Telegram Bot
+Telegram Bot for tracking flipkart prices
